@@ -1,0 +1,117 @@
+
+html{
+
+
+    background-image: linear-gradient(to bottom right,rgb(222, 90, 255),rgb(0, 56, 129));
+    }
+    
+    
+    #logo{
+        width: 70px;
+        height: 70px;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 35px 0px 0px;
+    }
+#Yeneheberet{
+    color: rgb(255, 250, 255);
+     font-weight: bold;
+     padding: 0px 0px 0px 35px;
+     margin: 0px 0px 0px 0px;
+    font-size: 50px;
+    text-align: center;
+    font-family: A0 Addis Abeba Unicode;}
+    
+#Gallary{
+    color:  rgb(61, 0, 63);
+    font-family: Times New Roman;
+    line-height: 5%;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 10%;
+    border: 1px dashed  rgb(61, 0, 63);
+    width: 200px;
+    height: 200px;
+    padding: 0px 15px 0px 15px;
+    margin: 0px 20px 0px 20px;
+  text-align: center;}
+  
+#home{
+    color: rgb(61, 0, 63);
+    font-family: Times New Roman;
+    line-height: 5%;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 10%;
+    border: 1px dashed rgb(61, 0, 63);
+    width: 200px;
+    height: 200px;
+    margin: 0px 20px 20px 20px;
+  text-align: center;
+  padding: 0px 15px 0px 15px;
+  }
+  
+#mezemran{
+    text-align: center;
+    font-weight: bold;
+    font-family: A0 Addis Abeba Unicode;
+    font-size: 20px;
+    padding: 00px;
+    margin: 0px 0px 20px 0px;
+    color: rgb(255, 250, 255);
+    text-shadow: 40cap;
+    background-image: linear-gradient(to top right,rgb(222, 90, 255),rgb(255, 55, 172));
+    border-radius: 25cap;
+       }
+       
+#About{
+    color:  rgb(61, 0, 63);
+    line-height: 5%;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 15%;
+    border: 1px dashed  rgb(61, 0, 63);
+    width: 200px;
+    height: 200px;
+    padding: 0px 15px 0px 15px;
+    margin: 0px 20px 0px 20px;
+  text-align: center;
+  }
+  #suport{
+    color:  rgb(61, 0, 63);
+    line-height: 5%;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 15%;
+    border: 1px dashed  rgb(61, 0, 63);
+    padding: 20px;
+    padding: 0px 15px 0px 15px;
+    margin: 0px 20px 0px 20px; 
+  text-align: center;
+  }
+  #contact{
+    color: rgb(61, 0, 63);
+    line-height: 5%;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 15%;
+    border: 1px dashed  rgb(61, 0, 63);
+    width: 200px;
+    height: 200px;
+    margin: 0px 20px 0px 20px;
+   
+  text-align: center;
+  padding: 0px 15px 0px 15px;
+   
+  }
+  #maranata, #teshirolgnal{
+    color: white;
+    text-align: center;
+  }
+  #teshirolgnall{
+    color: white;
+    text-align: center;}
+    #kahnachin, #temesgen{
+      color: white;
+    text-align: center;
+    }
+  

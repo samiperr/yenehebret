@@ -1,0 +1,207 @@
+html{
+
+
+background-image: linear-gradient(to bottom right,rgb(128, 128, 128),rgb(180, 57, 174),rgb(219, 138, 33),rgb(0, 0, 0));
+}
+
+
+#logo{
+    width: 70px;
+    height: 70px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 35px 0px 0px;
+}
+
+#home{
+  color: rgb(61, 0, 63);
+  font-family: Times New Roman;
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 10%;
+  border: 1px dashed rgb(61, 0, 63);
+  width: 200px;
+  height: 200px;
+  margin: 0px 20px 20px 20px;
+text-align: center;
+padding: 0px 15px 0px 15px;
+}
+#Gallary{
+  color:  rgb(61, 0, 63);
+  font-family: Times New Roman;
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 10%;
+  border: 1px dashed  rgb(61, 0, 63);
+  width: 200px;
+  height: 200px;
+  padding: 0px 15px 0px 15px;
+  margin: 0px 20px 0px 20px;
+text-align: center;
+}
+#Yeneheberet{
+  color: rgb(255, 250, 255);
+   font-weight: bold;
+   padding: 0px 0px 0px 35px;
+   margin: 0px 0px 0px 0px;
+  font-size: 50px;
+  text-align: center;
+  font-family: A0 Addis Abeba Unicode;
+}
+#mezemran{
+  text-align: center;
+  font-weight: bold;
+  font-family: A0 Addis Abeba Unicode;
+  font-size: 20px;
+  padding: 00px;
+  margin: 0px 0px 20px 0px;
+  color: rgb(255, 250, 255);
+  text-shadow: 40cap;
+  background-image: linear-gradient(to top right,rgb(222, 90, 255),rgb(255, 55, 172));
+  border-radius: 25cap;
+ 
+
+}
+#masabiya{
+color: rgb(255, 255, 255);
+text-align: center;
+font-size: 20px;
+
+}
+#About{
+  color:  rgb(61, 0, 63);
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 15%;
+  border: 1px dashed  rgb(61, 0, 63);
+  width: 200px;
+  height: 200px;
+  padding: 0px 15px 0px 15px;
+  margin: 0px 20px 0px 20px;
+text-align: center;
+}
+#suport{
+  color:  rgb(61, 0, 63);
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 15%;
+  border: 1px dashed  rgb(61, 0, 63);
+  padding: 20px;
+  padding: 0px 15px 0px 15px;
+  margin: 0px 20px 0px 20px; 
+text-align: center;
+}
+#contact{
+  color: rgb(61, 0, 63);
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 15%;
+  border: 1px dashed  rgb(61, 0, 63);
+  width: 200px;
+  height: 200px;
+  margin: 0px 20px 0px 20px;
+ 
+text-align: center;
+padding: 0px 15px 0px 15px;
+  
+
+}
+/*li{
+  color: blue;
+ 
+}
+*/
+
+#list{
+    color: rgb(0, 83, 21);
+    list-style: decimal;
+    font-size: 20px;
+    box-sizing: border-box;
+    border-radius: 15cap;
+    background-image: linear-gradient(to bottom right,rgb(166, 220, 228),rgb(0, 174, 255),rgb(0, 84, 117));
+    padding: 0px 50px 0px 500px;
+    margin: 0px 50px 0px 20px;
+    text-decoration: none;
+    line-height: 150%;
+   
+}
+#six{
+  width: 40px;
+  height: 40px;
+}
+#gallaryyene{
+  width: 350px;
+    height: 350px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 35px 0px 0px;
+    border: solid white;
+    margin: 0px 50px 0px 300px;
+    padding: 3px;
+
+}
+#firstimg{
+  margin: 30px 0px 0px 0px;
+}
+#contactimg{
+  width: 100px;
+height: 100px;
+}
+#firstimg{
+      margin: 0px 0px 0px 0px;
+         border:  3px solid white;
+    margin: 10px;
+    padding: 3px;
+
+}
+#ab{
+ margin: 0px 0px 0px 0px;
+  border:  3px solid white;
+margin: 10px;
+padding: 3px;
+}
+#edu,#lol{
+  margin: 0px 0px 0px 0px;
+  border:  3px solid white;
+margin: 10px;
+padding: 3px;
+}
+#second{
+  margin: 0px 0px 0px 0px;
+  border:  3px solid white;
+margin: 10px;
+padding: 3px;
+}
+#seconds{
+  margin: 0px 0px 0px 20px;
+  border:  3px solid white;
+margin: 0px 0px 0px 200px;
+padding: 3px;
+}
+#firstservp{
+color: aliceblue;
+text-align: center;
+font-weight: bolder;
+font-size: 40px;
+}
+#maranata{
+  color:  rgb(0, 0, 255);
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 2%;
+  
+  width: 200px;
+  height: 200px;
+  padding: 0px 15px 0px 15px;
+  margin: 0px 20px 0px 20px;
+text-align: center;
+}
+#mabrariya{
+  color: white;
+    text-align: center;
+    font-size: xx-large;
+}
