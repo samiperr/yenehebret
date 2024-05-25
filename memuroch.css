@@ -22,32 +22,36 @@ html{
     font-family: A0 Addis Abeba Unicode;}
     
 #Gallary{
-    color:  rgb(61, 0, 63);
-    font-family: Times New Roman;
-    line-height: 5%;
-    text-decoration: none;
-    font-size: 25px;
-    border-radius: 10%;
-    border: 1px dashed  rgb(61, 0, 63);
-    width: 200px;
-    height: 200px;
-    padding: 0px 15px 0px 15px;
-    margin: 0px 20px 0px 20px;
-  text-align: center;}
+     
+  color: rgba(218, 152, 185, 0.904);
+  background-image: linear-gradient(to bottom right,rgb(253, 47, 191),rgb(93, 0, 105),rgb(0, 0, 0));
+  font-family: Times New Roman;
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 5cap;
+  
+  width: 200px;
+  height: 200px;
+  margin: 0px 20px 20px 50px;
+text-align: center;
+padding: 10px;}
   
 #home{
-    color: rgb(61, 0, 63);
-    font-family: Times New Roman;
-    line-height: 5%;
-    text-decoration: none;
-    font-size: 25px;
-    border-radius: 10%;
-    border: 1px dashed rgb(61, 0, 63);
-    width: 200px;
-    height: 200px;
-    margin: 0px 20px 20px 20px;
-  text-align: center;
-  padding: 0px 15px 0px 15px;
+     
+  color: rgba(218, 152, 185, 0.904);
+  background-image: linear-gradient(to bottom right,rgb(253, 47, 191),rgb(93, 0, 105),rgb(0, 0, 0));
+  font-family: Times New Roman;
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 5cap;
+  
+  width: 200px;
+  height: 200px;
+  margin: 0px 20px 20px 50px;
+text-align: center;
+padding: 10px;
   }
   
 #mezemran{
@@ -64,43 +68,34 @@ html{
        }
        
 #About{
-    color:  rgb(61, 0, 63);
-    line-height: 5%;
-    text-decoration: none;
-    font-size: 25px;
-    border-radius: 15%;
-    border: 1px dashed  rgb(61, 0, 63);
-    width: 200px;
-    height: 200px;
-    padding: 0px 15px 0px 15px;
-    margin: 0px 20px 0px 20px;
-  text-align: center;
-  }
-  #suport{
-    color:  rgb(61, 0, 63);
-    line-height: 5%;
-    text-decoration: none;
-    font-size: 25px;
-    border-radius: 15%;
-    border: 1px dashed  rgb(61, 0, 63);
-    padding: 20px;
-    padding: 0px 15px 0px 15px;
-    margin: 0px 20px 0px 20px; 
-  text-align: center;
+  color: rgba(218, 152, 185, 0.904);
+  background-image: linear-gradient(to bottom right,rgb(253, 47, 191),rgb(93, 0, 105),rgb(0, 0, 0));
+  font-family: Times New Roman;
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 5cap;
+  
+  width: 200px;
+  height: 200px;
+  margin: 0px 20px 20px 20cap;
+text-align: center;
+padding: 10px;
   }
   #contact{
-    color: rgb(61, 0, 63);
+    color: rgba(218, 152, 185, 0.904);
+    background-image: linear-gradient(to bottom right,rgb(253, 47, 191),rgb(93, 0, 105),rgb(0, 0, 0));
+    font-family: Times New Roman;
     line-height: 5%;
     text-decoration: none;
     font-size: 25px;
-    border-radius: 15%;
-    border: 1px dashed  rgb(61, 0, 63);
+    border-radius: 5cap;
+    
     width: 200px;
     height: 200px;
-    margin: 0px 20px 0px 20px;
-   
+    margin: 0px 20px 20px 10cap;
   text-align: center;
-  padding: 0px 15px 0px 15px;
+  padding: 10px;
    
   }
   #maranata, #teshirolgnal{
@@ -114,4 +109,11 @@ html{
       color: white;
     text-align: center;
     }
-  
+    #yekedusan
+    {
+      color: white;
+      text-align: center;}
+      #kahnachin, #temesgen{
+        color: white;
+      text-align: center;
+      }

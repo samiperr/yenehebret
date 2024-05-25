@@ -13,32 +13,37 @@ background-image: linear-gradient(to bottom right,rgb(128, 128, 128),rgb(180, 57
 }
 
 #home{
-  color: rgb(61, 0, 63);
+  color: rgba(218, 152, 185, 0.904);
+  background-image: linear-gradient(to bottom right,rgb(253, 47, 191),rgb(93, 0, 105),rgb(0, 0, 0));
   font-family: Times New Roman;
   line-height: 5%;
   text-decoration: none;
   font-size: 25px;
-  border-radius: 10%;
-  border: 1px dashed rgb(61, 0, 63);
+  border-radius: 5cap;
+  
+  width: 200px;
+  height: 200px;
+  margin: 0px 20px 20px 50px;
+text-align: center;
+padding: 10px;
+
+
+
+}
+#Gallary{
+  color: rgba(218, 152, 185, 0.904);
+  background-image: linear-gradient(to bottom right,rgb(253, 47, 191),rgb(93, 0, 105),rgb(0, 0, 0));
+  font-family: Times New Roman;
+  line-height: 5%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 5cap;
+  
   width: 200px;
   height: 200px;
   margin: 0px 20px 20px 20px;
 text-align: center;
-padding: 0px 15px 0px 15px;
-}
-#Gallary{
-  color:  rgb(61, 0, 63);
-  font-family: Times New Roman;
-  line-height: 5%;
-  text-decoration: none;
-  font-size: 25px;
-  border-radius: 10%;
-  border: 1px dashed  rgb(61, 0, 63);
-  width: 200px;
-  height: 200px;
-  padding: 0px 15px 0px 15px;
-  margin: 0px 20px 0px 20px;
-text-align: center;
+padding: 10px;
 }
 #Yeneheberet{
   color: rgb(255, 250, 255);
@@ -70,43 +75,34 @@ font-size: 20px;
 
 }
 #About{
-  color:  rgb(61, 0, 63);
+  color: rgba(218, 152, 185, 0.904);
+  background-image: linear-gradient(to bottom right,rgb(253, 47, 191),rgb(93, 0, 105),rgb(0, 0, 0));
+  font-family: Times New Roman;
   line-height: 5%;
   text-decoration: none;
   font-size: 25px;
-  border-radius: 15%;
-  border: 1px dashed  rgb(61, 0, 63);
+  border-radius: 5cap;
+  
   width: 200px;
   height: 200px;
-  padding: 0px 15px 0px 15px;
-  margin: 0px 20px 0px 20px;
+  margin: 0px 20px 20px 200px;
 text-align: center;
-}
-#suport{
-  color:  rgb(61, 0, 63);
-  line-height: 5%;
-  text-decoration: none;
-  font-size: 25px;
-  border-radius: 15%;
-  border: 1px dashed  rgb(61, 0, 63);
-  padding: 20px;
-  padding: 0px 15px 0px 15px;
-  margin: 0px 20px 0px 20px; 
-text-align: center;
+padding: 10px;
 }
 #contact{
-  color: rgb(61, 0, 63);
+  color: rgba(218, 152, 185, 0.904);
+  background-image: linear-gradient(to bottom right,rgb(253, 47, 191),rgb(93, 0, 105),rgb(0, 0, 0));
+  font-family: Times New Roman;
   line-height: 5%;
   text-decoration: none;
   font-size: 25px;
-  border-radius: 15%;
-  border: 1px dashed  rgb(61, 0, 63);
+  border-radius: 5cap;
+  
   width: 200px;
   height: 200px;
-  margin: 0px 20px 0px 20px;
- 
+  margin: 0px 20px 20px 200px;
 text-align: center;
-padding: 0px 15px 0px 15px;
+padding: 10px;
   
 
 }
@@ -138,7 +134,7 @@ padding: 0px 15px 0px 15px;
     height: 350px;
     margin: 0px 0px 0px 0px;
     padding: 0px 35px 0px 0px;
-    border: solid white;
+    border: solid rgb(134, 134, 134);
     margin: 0px 50px 0px 300px;
     padding: 3px;
 
@@ -152,37 +148,72 @@ height: 100px;
 }
 #firstimg{
       margin: 0px 0px 0px 0px;
-         border:  3px solid white;
+         border:  1px solid rgb(150, 150, 150);
     margin: 10px;
     padding: 3px;
 
 }
+#fotoser{
+  color: rgb(209, 208, 208);
+  text-align: center;
+  padding: 0%;
+  margin: 0%;
+}
 #ab{
  margin: 0px 0px 0px 0px;
-  border:  3px solid white;
-margin: 10px;
+  border:  1px solid rgb(155, 155, 155);
+margin: 10px 10px 10px 5%;
 padding: 3px;
 }
-#edu,#lol{
+#edu{
   margin: 0px 0px 0px 0px;
-  border:  3px solid white;
-margin: 10px;
+  border:  1px solid rgb(151, 151, 151);
+  margin: 0%;
+padding: 3px;
+}
+#edus{
+  margin: 0px 0px 0px 0px;
+  border:  1px solid rgb(124, 124, 124);
+  margin: 0% 0% 0% 5%;
+padding: 3px;}
+
+
+#lol{
+  margin: 0px 0px 0px 0px;
+  border:  1px solid rgb(146, 146, 146);
+  margin: 0% 0% 0% 5%;
 padding: 3px;
 }
 #second{
   margin: 0px 0px 0px 0px;
-  border:  3px solid white;
-margin: 10px;
+  border:  1px solid rgb(163, 162, 162);
+  margin: 0% 0% 0% 3%;
 padding: 3px;
 }
+#secondd{
+  margin: 0px 0px 0px 6%;
+  border:  1px solid rgb(163, 162, 162);
+  
+padding: 3px;
+}
+#secondes{
+  border:  1px solid rgb(158, 158, 158);
+  margin: 0% 0% 0% 10%;
+padding: 0%;
+}
 #seconds{
-  margin: 0px 0px 0px 20px;
-  border:  3px solid white;
-margin: 0px 0px 0px 200px;
+    border:  1px solid rgb(158, 158, 158);
+  margin: 0% 0% 0% 3%;
+padding: 0%;
+}
+#seconde{
+  margin: 10px 10px 10px 2%;
+  border:  1px solid rgb(148, 148, 148);
+  
 padding: 3px;
 }
 #firstservp{
-color: aliceblue;
+color: rgb(151, 151, 151);
 text-align: center;
 font-weight: bolder;
 font-size: 40px;
